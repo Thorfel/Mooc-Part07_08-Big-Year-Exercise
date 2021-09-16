@@ -9,14 +9,7 @@ public class mainProgram {
         // as a parameter
        
         
-        /*Bird Liddey = new Bird("xxx", "yyy");
-        Liddey.observe();
-        System.out.println(Liddey);
-        Database db = new Database();
-        db.add(Liddey);
-        db.observation("xxx");
-        System.out.println(Liddey);
-        */
+        
         Database data = new Database();    
         
         Scanner scanner = new Scanner(System.in);
